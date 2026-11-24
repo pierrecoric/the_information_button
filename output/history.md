@@ -121,3 +121,31 @@ We went from [Duration (philosophy)](https://en.wikipedia.org/wiki/Duration_(phi
 
 We went from [Etiology](https://en.wikipedia.org/wiki/Etiology) to [Political science](https://en.wikipedia.org/wiki/Political_science).
 
+We went from [Political science](https://en.wikipedia.org/wiki/Political_science) to [Ministry of Electricity](https://en.wikipedia.org/wiki/Ministry_of_electricity).
+
+We went from [Ministry of Electricity](https://en.wikipedia.org/wiki/Ministry_of_electricity) to [Electricity](https://en.wikipedia.org/wiki/Electricity).
+
+We went from [Electricity](https://en.wikipedia.org/wiki/Electricity) to [Thermodynamic equilibrium](https://en.wikipedia.org/wiki/Thermodynamic_equilibrium).
+
+We went from [Thermodynamic equilibrium](https://en.wikipedia.org/wiki/Thermodynamic_equilibrium) to [Control volume](https://en.wikipedia.org/wiki/Control_volume).
+
+We went from [Control volume](https://en.wikipedia.org/wiki/Control_volume) to [Work (thermodynamics)](https://en.wikipedia.org/wiki/Work_(thermodynamics)).
+
+We went from [Work (thermodynamics)](https://en.wikipedia.org/wiki/Work_(thermodynamics)) to [List of thermodynamic properties](https://en.wikipedia.org/wiki/List_of_thermodynamic_properties).
+
+We went from [List of thermodynamic properties](https://en.wikipedia.org/wiki/List_of_thermodynamic_properties) to [Conjugate variables (thermodynamics)](https://en.wikipedia.org/wiki/Conjugate_variables_(thermodynamics)).
+
+We went from [Conjugate variables (thermodynamics)](https://en.wikipedia.org/wiki/Conjugate_variables_(thermodynamics)) to [History of entropy](https://en.wikipedia.org/wiki/History_of_entropy).
+
+We went from [History of entropy](https://en.wikipedia.org/wiki/History_of_entropy) to [Timeline of particle discoveries](https://en.wikipedia.org/wiki/Timeline_of_particle_discoveries).
+
+We went from [Timeline of particle discoveries](https://en.wikipedia.org/wiki/Timeline_of_particle_discoveries) to [Bibcode](https://en.wikipedia.org/wiki/Bibcode_(identifier)).
+
+We went from [Bibcode](https://en.wikipedia.org/wiki/Bibcode_(identifier)) to [Bibcode](https://en.wikipedia.org/wiki/Bibcode_(identifier)).
+
+We went from [Bibcode](https://en.wikipedia.org/wiki/Bibcode_(identifier)) to [Digital object identifier](https://en.wikipedia.org/wiki/Doi_(identifier)).
+
+We went from [Digital object identifier](https://en.wikipedia.org/wiki/Doi_(identifier)) to [JSON](https://en.wikipedia.org/wiki/JSON).
+
+We went from [JSON](https://en.wikipedia.org/wiki/JSON) to [Full BASIC](https://en.wikipedia.org/wiki/Full_BASIC).
+
