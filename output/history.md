@@ -87,3 +87,5 @@ We went from [Externality](https://en.wikipedia.org/wiki/Externalities) to [Char
 -
 We went from [Charles Eisenstein](https://en.wikipedia.org/wiki/Charles_Eisenstein) to [Del Bigtree](https://en.wikipedia.org/wiki/Del_Bigtree).
 -
+We went from [Del Bigtree](https://en.wikipedia.org/wiki/Del_Bigtree) to [COVID-19 vaccine misinformation and hesitancy](https://en.wikipedia.org/wiki/COVID-19_vaccine_misinformation_and_hesitancy).
+-

@@ -92,3 +92,5 @@ Some information about [Externality](https://en.wikipedia.org/wiki/Externalities
 -
 Some information about [Charles Eisenstein](https://en.wikipedia.org/wiki/Charles_Eisenstein). Eisenstein has publishedop-edpieces inThe GuardianandThe Huffington Poston topics including genetic modification, the patenting of seedsand debt.He is a contributing editor at the websiteReality Sandwich.He appeared onOprah Winfrey'sSuper Soul Sundayon July 16, 2017.He has periodically published essays on his websiteand in his newsletter.
 -
+Some information about [Del Bigtree](https://en.wikipedia.org/wiki/Del_Bigtree). Del Matthew Bigtreeis an American television and film producer who is the CEO of theanti-vaccinationgroupInformed Consent Action Network. He produced the filmVaxxed: From Cover-Up to Catastrophe, based on the discreditedopinions ofAndrew Wakefield, and alleges an unsubstantiated connection betweenvaccines and autism. He was communications director forRobert F. Kennedy Jr.'s 2024 presidential campaignand subsequently took a leading role in two groups associated with Kennedy's political career.
+-
