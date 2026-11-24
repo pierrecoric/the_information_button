@@ -104,3 +104,15 @@ Some information about [Digital object identifier](https://en.wikipedia.org/wiki
 -
 Some information about [On-board diagnostics](https://en.wikipedia.org/wiki/On-board_diagnostics). OBD-II diagnostic trouble codes (DTCs)are five characters long, with the first letter indicating a category, and the remaining four being ahexadecimalnumber.
 -
+Some information about [Renard series](https://en.wikipedia.org/wiki/Renard_series). The series have also influenced standard preferred-frequency systems used in acoustics. ISO 266 specifies preferred frequencies for acoustical measurement.
+-
+Some information about [List of ISO standards 1–1999](https://en.wikipedia.org/wiki/ISO_18). The standards are protected by copyright and most of them must be purchased. However, about 300 of the standards produced by ISO andIEC's Joint Technical Committee 1 (JTC 1) have been made freely and publicly available.
+-
+Some information about [ISO 13399](https://en.wikipedia.org/wiki/ISO_13399). The usage of the ISO 13399 standard will simplify the exchange of data for cutting tools. Expected results are lower cost for managing the information about tools and a more accurate and efficient usage of manufacturing resources. The ISO 13399 has been developed with contributions fromAB Sandvik Coromant, the Royal Institute of Technology in Stockholm, Kennametal Inc, and Ferroday Ltd.
+-
+Some information about [ISO 668](https://en.wikipedia.org/wiki/ISO_668). The ISO 668 standard firstly classifies containers by their length in wholefeetfor their 'common names', despite all measurement units used being eithermetric (SI)orofficially based on the metric system. The exact standardlengthof '30-foot' and shorter containers is actually slightly shorter than theirnominallength, to accommodate for the space taken up bytwist-lock couplers, required for stacking containers of unequal length.
+-
+Some information about [ISO 6385](https://en.wikipedia.org/wiki/ISO_6385). TheInternational StandardISO 6385 "Ergonomic principles in the design of work systems" is published by theInternational Organization for Standardizationand was last revised in 2016.
+-
+Some information about [Whirlpool (hash function)](https://en.wikipedia.org/wiki/Whirlpool_(hash_function)). TheAddRoundKeyoperation uses bitwisexorto add a key calculated by the key schedule to the current state. The key schedule is identical to the encryption itself, except the AddRoundKey function is replaced by anAddRoundConstantfunction that adds a predetermined constant in each round.
+-

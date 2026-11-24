@@ -99,3 +99,15 @@ We went from [Digital object identifier](https://en.wikipedia.org/wiki/Doi_(iden
 -
 We went from [On-board diagnostics](https://en.wikipedia.org/wiki/On-board_diagnostics) to [Renard series](https://en.wikipedia.org/wiki/Renard_series).
 -
+We went from [Renard series](https://en.wikipedia.org/wiki/Renard_series) to [List of ISO standards 1–1999](https://en.wikipedia.org/wiki/ISO_18).
+-
+We went from [List of ISO standards 1–1999](https://en.wikipedia.org/wiki/ISO_18) to [ISO 13399](https://en.wikipedia.org/wiki/ISO_13399).
+-
+We went from [ISO 13399](https://en.wikipedia.org/wiki/ISO_13399) to [ISO 668](https://en.wikipedia.org/wiki/ISO_668).
+-
+We went from [ISO 668](https://en.wikipedia.org/wiki/ISO_668) to [ISO 6385](https://en.wikipedia.org/wiki/ISO_6385).
+-
+We went from [ISO 6385](https://en.wikipedia.org/wiki/ISO_6385) to [Whirlpool (hash function)](https://en.wikipedia.org/wiki/Whirlpool_(hash_function)).
+-
+We went from [Whirlpool (hash function)](https://en.wikipedia.org/wiki/Whirlpool_(hash_function)) to [ISO/IEC 8859-6](https://en.wikipedia.org/wiki/ISO/IEC_8859-6).
+-
