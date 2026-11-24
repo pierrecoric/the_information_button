@@ -93,3 +93,9 @@ We went from [COVID-19 vaccine misinformation and hesitancy](https://en.wikipedi
 -
 We went from [Post-truth politics](https://en.wikipedia.org/wiki/Post-truth_politics) to [Digital object identifier](https://en.wikipedia.org/wiki/Doi_(identifier)).
 -
+We went from [Digital object identifier](https://en.wikipedia.org/wiki/Doi_(identifier)) to [Digital object identifier](https://en.wikipedia.org/wiki/Doi_(identifier)).
+-
+We went from [Digital object identifier](https://en.wikipedia.org/wiki/Doi_(identifier)) to [On-board diagnostics](https://en.wikipedia.org/wiki/On-board_diagnostics).
+-
+We went from [On-board diagnostics](https://en.wikipedia.org/wiki/On-board_diagnostics) to [Renard series](https://en.wikipedia.org/wiki/Renard_series).
+-
