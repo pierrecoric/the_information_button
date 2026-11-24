@@ -5,6 +5,7 @@ from gtts import gTTS
 import subprocess
 import re
 
+
 #The seed URL
 with open("seed.txt", "r") as file:
     seed_url = file.read().strip()
@@ -93,6 +94,10 @@ with open("output/some_info.md", "a") as file:
 #change seed to a random link.
 with open("seed.txt", "w") as file:
     file.write(f'{random_link} ')
+
+print("\033[2J\033[3J\033[H", end="")
+print(text_content)
+
 
 #Speak the info.
 tts = gTTS(text=text_content, lang="en", slow=False)
