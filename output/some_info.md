@@ -119,3 +119,5 @@ Some information about [Whirlpool (hash function)](https://en.wikipedia.org/wiki
 
 Some information about [ISO/IEC 8859-6](https://en.wikipedia.org/wiki/ISO/IEC_8859-6). ASMO 708 is abidirectionalcharacter set. The lower part of the character set differs from standardISO 646in the digits and in some punctuation. Depending on the context (whether the numbers are within Latin script or Arabic script), the digits are rendered either as Latin digits or Arabic digits. Also, depending on the context, symmetrical punctuation marks are reversed, i.e., whenever there is an opening punctuation mark, the shape is rendered differently according to the direction of the script.
 
+Some information about [ISO 10303-21](https://en.wikipedia.org/wiki/ISO_10303-21). TheDATAsection contains application data according to one specific express schema. The encoding of this data follows some simple principles.
+

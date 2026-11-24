@@ -113,3 +113,5 @@ We went from [Whirlpool (hash function)](https://en.wikipedia.org/wiki/Whirlpool
 
 We went from [ISO/IEC 8859-6](https://en.wikipedia.org/wiki/ISO/IEC_8859-6) to [ISO 10303-21](https://en.wikipedia.org/wiki/ISO_10303-21).
 
+We went from [ISO 10303-21](https://en.wikipedia.org/wiki/ISO_10303-21) to [ISO 8601](https://en.wikipedia.org/wiki/ISO_4031).
+
