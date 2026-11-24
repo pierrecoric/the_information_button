@@ -114,10 +114,10 @@ title_next = title_next[0].get_text()
 
 #Write history
 with open("output/history.md", "a") as file:
-    file.write(f'We went from [{title_current}]({seed_url}) to [{title_next}]({random_link})\n')
+    file.write(f'We went from [{title_current}]({seed_url}) to [{title_next}]({random_link}).\n')
 #Write a weird encyclopedia
 with open("output/some_info.md", "a") as file:
-    file.write(f'Some information about [{title_current}]({seed_url}). {random_paragraph}\n')
+    file.write(f'Some information about [{title_current}]({seed_url}). {random_paragraph}\n-\n')
 #change seed to the random link.
 with open("seed.txt", "w") as file:
     file.write(f'{random_link} ')
