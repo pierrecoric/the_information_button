@@ -9,70 +9,70 @@ We went from [Russange](https://en.wikipedia.org/wiki/Russange) to [Colmen](http
 -
 We went from [Colmen](https://en.wikipedia.org/wiki/Colmen) to [Marange-Silvange](https://en.wikipedia.org/wiki/Marange-Silvange)
 -
-We went from [Marange-Silvange](https://en.wikipedia.org/wiki/Marange-Silvange) to [Roppeviller](https://en.wikipedia.org/wiki/Roppeviller
+We went from [Marange-Silvange](https://en.wikipedia.org/wiki/Marange-Silvange) to [Roppeviller](https://en.wikipedia.org/wiki/Roppeviller)
 -
-We went from [Roppeviller](https://en.wikipedia.org/wiki/Roppeviller) to [Etting](https://en.wikipedia.org/wiki/Etting
+We went from [Roppeviller](https://en.wikipedia.org/wiki/Roppeviller) to [Etting](https://en.wikipedia.org/wiki/Etting)
 -
-We went from [Etting](https://en.wikipedia.org/wiki/Etting) to [Waldhouse](https://en.wikipedia.org/wiki/Waldhouse
+We went from [Etting](https://en.wikipedia.org/wiki/Etting) to [Waldhouse](https://en.wikipedia.org/wiki/Waldhouse)
 -
-We went from [Waldhouse](https://en.wikipedia.org/wiki/Waldhouse) to [Coincy, Moselle](https://en.wikipedia.org/wiki/Coincy,_Moselle
+We went from [Waldhouse](https://en.wikipedia.org/wiki/Waldhouse) to [Coincy, Moselle](https://en.wikipedia.org/wiki/Coincy,_Moselle)
 -
-We went from [Coincy, Moselle](https://en.wikipedia.org/wiki/Coincy,_Moselle) to [Alsting](https://en.wikipedia.org/wiki/Alsting
+We went from [Coincy, Moselle](https://en.wikipedia.org/wiki/Coincy,_Moselle) to [Alsting](https://en.wikipedia.org/wiki/Alsting)
 -
-We went from [Alsting](https://en.wikipedia.org/wiki/Alsting) to [Liocourt](https://en.wikipedia.org/wiki/Liocourt
+We went from [Alsting](https://en.wikipedia.org/wiki/Alsting) to [Liocourt](https://en.wikipedia.org/wiki/Liocourt)
 -
-We went from [Liocourt](https://en.wikipedia.org/wiki/Liocourt) to [Bouzonville](https://en.wikipedia.org/wiki/Bouzonville
+We went from [Liocourt](https://en.wikipedia.org/wiki/Liocourt) to [Bouzonville](https://en.wikipedia.org/wiki/Bouzonville)
 -
 We went from [Bouzonville](https://en.wikipedia.org/wiki/Bouzonville) to [Rhine](https://en.wikipedia.org/wiki/Rhine)
-We went from [Rhine](https://en.wikipedia.org/wiki/Rhine) to [Nieuwe Waterweg](https://en.wikipedia.org/wiki/Nieuwe_Waterweg
+We went from [Rhine](https://en.wikipedia.org/wiki/Rhine) to [Nieuwe Waterweg](https://en.wikipedia.org/wiki/Nieuwe_Waterweg)
 -
-We went from [Nieuwe Waterweg](https://en.wikipedia.org/wiki/Nieuwe_Waterweg) to [Saeftinghe](https://en.wikipedia.org/wiki/Verdronken_Land_van_Saeftinghe
+We went from [Nieuwe Waterweg](https://en.wikipedia.org/wiki/Nieuwe_Waterweg) to [Saeftinghe](https://en.wikipedia.org/wiki/Verdronken_Land_van_Saeftinghe)
 -
-We went from [Saeftinghe](https://en.wikipedia.org/wiki/Verdronken_Land_van_Saeftinghe) to [Scheldt](https://en.wikipedia.org/wiki/Scheldt
+We went from [Saeftinghe](https://en.wikipedia.org/wiki/Verdronken_Land_van_Saeftinghe) to [Scheldt](https://en.wikipedia.org/wiki/Scheldt)
 -
-We went from [Scheldt](https://en.wikipedia.org/wiki/Scheldt) to [Scorff](https://en.wikipedia.org/wiki/Scorff
+We went from [Scheldt](https://en.wikipedia.org/wiki/Scheldt) to [Scorff](https://en.wikipedia.org/wiki/Scorff)
 -
-We went from [Scorff](https://en.wikipedia.org/wiki/Scorff) to [Morbihan](https://en.wikipedia.org/wiki/Morbihan
+We went from [Scorff](https://en.wikipedia.org/wiki/Scorff) to [Morbihan](https://en.wikipedia.org/wiki/Morbihan)
 -
-We went from [Morbihan](https://en.wikipedia.org/wiki/Morbihan) to [Charente-Maritime](https://en.wikipedia.org/wiki/Charente-Maritime
+We went from [Morbihan](https://en.wikipedia.org/wiki/Morbihan) to [Charente-Maritime](https://en.wikipedia.org/wiki/Charente-Maritime)
 -
-We went from [Charente-Maritime](https://en.wikipedia.org/wiki/Charente-Maritime) to [John II of France](https://en.wikipedia.org/wiki/John_II_of_France
+We went from [Charente-Maritime](https://en.wikipedia.org/wiki/Charente-Maritime) to [John II of France](https://en.wikipedia.org/wiki/John_II_of_France)
 -
-We went from [John II of France](https://en.wikipedia.org/wiki/John_II_of_France) to [Battle of Poitiers](https://en.wikipedia.org/wiki/Battle_of_Poitiers
+We went from [John II of France](https://en.wikipedia.org/wiki/John_II_of_France) to [Battle of Poitiers](https://en.wikipedia.org/wiki/Battle_of_Poitiers)
 -
-We went from [Battle of Poitiers](https://en.wikipedia.org/wiki/Battle_of_Poitiers) to [Oriflamme](https://en.wikipedia.org/wiki/Oriflamme
+We went from [Battle of Poitiers](https://en.wikipedia.org/wiki/Battle_of_Poitiers) to [Oriflamme](https://en.wikipedia.org/wiki/Oriflamme)
 -
-We went from [Oriflamme](https://en.wikipedia.org/wiki/Oriflamme) to [List of Frankish kings](https://en.wikipedia.org/wiki/List_of_Frankish_kings
+We went from [Oriflamme](https://en.wikipedia.org/wiki/Oriflamme) to [List of Frankish kings](https://en.wikipedia.org/wiki/List_of_Frankish_kings)
 -
-We went from [List of Frankish kings](https://en.wikipedia.org/wiki/List_of_Frankish_kings) to [Guilla of Provence](https://en.wikipedia.org/wiki/Guilla_of_Provence
+We went from [List of Frankish kings](https://en.wikipedia.org/wiki/List_of_Frankish_kings) to [Guilla of Provence](https://en.wikipedia.org/wiki/Guilla_of_Provence)
 -
-We went from [Guilla of Provence](https://en.wikipedia.org/wiki/Guilla_of_Provence) to [Charter](https://en.wikipedia.org/wiki/Charter
+We went from [Guilla of Provence](https://en.wikipedia.org/wiki/Guilla_of_Provence) to [Charter](https://en.wikipedia.org/wiki/Charter)
 -
-We went from [Charter](https://en.wikipedia.org/wiki/Charter) to [Public law](https://en.wikipedia.org/wiki/Public_law
+We went from [Charter](https://en.wikipedia.org/wiki/Charter) to [Public law](https://en.wikipedia.org/wiki/Public_law)
 -
-We went from [Public law](https://en.wikipedia.org/wiki/Public_law) to [Judicial review](https://en.wikipedia.org/wiki/Judicial_review
+We went from [Public law](https://en.wikipedia.org/wiki/Public_law) to [Judicial review](https://en.wikipedia.org/wiki/Judicial_review)
 -
-We went from [Judicial review](https://en.wikipedia.org/wiki/Judicial_review) to [High courts of India](https://en.wikipedia.org/wiki/High_courts_of_India
+We went from [Judicial review](https://en.wikipedia.org/wiki/Judicial_review) to [High courts of India](https://en.wikipedia.org/wiki/High_courts_of_India)
 -
-We went from [High courts of India](https://en.wikipedia.org/wiki/High_courts_of_India) to [State court](https://en.wikipedia.org/wiki/State_court_(disambiguation)
+We went from [High courts of India](https://en.wikipedia.org/wiki/High_courts_of_India) to [State court](https://en.wikipedia.org/wiki/State_court_(disambiguation))
 -
-We went from [State court](https://en.wikipedia.org/wiki/State_court_(disambiguation)) to [High courts of India](https://en.wikipedia.org/wiki/High_courts_of_India
+We went from [State court](https://en.wikipedia.org/wiki/State_court_(disambiguation)) to [High courts of India](https://en.wikipedia.org/wiki/High_courts_of_India)
 -
-We went from [High courts of India](https://en.wikipedia.org/wiki/High_courts_of_India) to [Lakshadweep](https://en.wikipedia.org/wiki/Lakshadweep
+We went from [High courts of India](https://en.wikipedia.org/wiki/High_courts_of_India) to [Lakshadweep](https://en.wikipedia.org/wiki/Lakshadweep)
 -
-We went from [Lakshadweep](https://en.wikipedia.org/wiki/Lakshadweep) to [Photovoltaic system](https://en.wikipedia.org/wiki/Photovoltaic_system
+We went from [Lakshadweep](https://en.wikipedia.org/wiki/Lakshadweep) to [Photovoltaic system](https://en.wikipedia.org/wiki/Photovoltaic_system)
 -
-We went from [Photovoltaic system](https://en.wikipedia.org/wiki/Photovoltaic_system) to [Solar inverter](https://en.wikipedia.org/wiki/Solar_inverter
+We went from [Photovoltaic system](https://en.wikipedia.org/wiki/Photovoltaic_system) to [Solar inverter](https://en.wikipedia.org/wiki/Solar_inverter)
 -
-We went from [Solar inverter](https://en.wikipedia.org/wiki/Solar_inverter) to [Alternating current](https://en.wikipedia.org/wiki/Alternating_current
+We went from [Solar inverter](https://en.wikipedia.org/wiki/Solar_inverter) to [Alternating current](https://en.wikipedia.org/wiki/Alternating_current)
 -
-We went from [Alternating current](https://en.wikipedia.org/wiki/Alternating_current) to [Electric charge](https://en.wikipedia.org/wiki/Electric_charge
+We went from [Alternating current](https://en.wikipedia.org/wiki/Alternating_current) to [Electric charge](https://en.wikipedia.org/wiki/Electric_charge)
 -
-We went from [Electric charge](https://en.wikipedia.org/wiki/Electric_charge) to [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz
+We went from [Electric charge](https://en.wikipedia.org/wiki/Electric_charge) to [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz)
 -
-We went from [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) to [Aesthetics](https://en.wikipedia.org/wiki/Aesthetics
+We went from [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) to [Aesthetics](https://en.wikipedia.org/wiki/Aesthetics)
 -
-We went from [Aesthetics](https://en.wikipedia.org/wiki/Aesthetics) to [Social class](https://en.wikipedia.org/wiki/Class_structure
+We went from [Aesthetics](https://en.wikipedia.org/wiki/Aesthetics) to [Social class](https://en.wikipedia.org/wiki/Class_structure)
 -
 We went from [Social class](https://en.wikipedia.org/wiki/Class_structure) to [Means of production](https://en.wikipedia.org/wiki/Means_of_production)
 -
