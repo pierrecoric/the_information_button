@@ -115,3 +115,9 @@ We went from [ISO/IEC 8859-6](https://en.wikipedia.org/wiki/ISO/IEC_8859-6) to [
 
 We went from [ISO 10303-21](https://en.wikipedia.org/wiki/ISO_10303-21) to [ISO 8601](https://en.wikipedia.org/wiki/ISO_4031).
 
+We went from [ISO 8601](https://en.wikipedia.org/wiki/ISO_4031) to [Duration (philosophy)](https://en.wikipedia.org/wiki/Duration_(philosophy)).
+
+We went from [Duration (philosophy)](https://en.wikipedia.org/wiki/Duration_(philosophy)) to [Etiology](https://en.wikipedia.org/wiki/Etiology).
+
+We went from [Etiology](https://en.wikipedia.org/wiki/Etiology) to [Political science](https://en.wikipedia.org/wiki/Political_science).
+

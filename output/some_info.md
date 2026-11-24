@@ -121,3 +121,9 @@ Some information about [ISO/IEC 8859-6](https://en.wikipedia.org/wiki/ISO/IEC_88
 
 Some information about [ISO 10303-21](https://en.wikipedia.org/wiki/ISO_10303-21). TheDATAsection contains application data according to one specific express schema. The encoding of this data follows some simple principles.
 
+Some information about [ISO 8601](https://en.wikipedia.org/wiki/ISO_4031). ISO8601-2:2019 defines a set of standardised extensions to the ISO8601 date and time formats.
+
+Some information about [Duration (philosophy)](https://en.wikipedia.org/wiki/Duration_(philosophy)). —Henri Bergson,The Creative Mind: An Introduction to Metaphysics, pages 164 to 165.
+
+Some information about [Etiology](https://en.wikipedia.org/wiki/Etiology). Etiology(/ˌiːtiˈɒlədʒi/; alternatively spelledaetiologyorætiology) is the study ofcausationor origination. The word is derived from theGreekwordαἰτιολογία(aitiología), meaning "giving a reason for" (fromαἰτία(aitía)'cause'and-λογία(-logía)'study of').More completely, etiology is the study of the causes, origins, or reasons behind the way that things are, or the way they function, or it can refer to the causes themselves.The word is commonly used inmedicine(pertaining to causes of disease or illness) and inphilosophy, but also inphysics,biology,psychology,political science,geography,cosmology,spatial analysisandtheologyin reference to the causes or origins of variousphenomena, and even incomputer scienceto reference the causes of bugs or unexpected behaviour.
+
