@@ -24,6 +24,7 @@ We went from [Alsting](https://en.wikipedia.org/wiki/Alsting) to [Liocourt](http
 We went from [Liocourt](https://en.wikipedia.org/wiki/Liocourt) to [Bouzonville](https://en.wikipedia.org/wiki/Bouzonville)
 -
 We went from [Bouzonville](https://en.wikipedia.org/wiki/Bouzonville) to [Rhine](https://en.wikipedia.org/wiki/Rhine)
+-
 We went from [Rhine](https://en.wikipedia.org/wiki/Rhine) to [Nieuwe Waterweg](https://en.wikipedia.org/wiki/Nieuwe_Waterweg)
 -
 We went from [Nieuwe Waterweg](https://en.wikipedia.org/wiki/Nieuwe_Waterweg) to [Saeftinghe](https://en.wikipedia.org/wiki/Verdronken_Land_van_Saeftinghe)
