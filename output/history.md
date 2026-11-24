@@ -89,3 +89,7 @@ We went from [Charles Eisenstein](https://en.wikipedia.org/wiki/Charles_Eisenste
 -
 We went from [Del Bigtree](https://en.wikipedia.org/wiki/Del_Bigtree) to [COVID-19 vaccine misinformation and hesitancy](https://en.wikipedia.org/wiki/COVID-19_vaccine_misinformation_and_hesitancy).
 -
+We went from [COVID-19 vaccine misinformation and hesitancy](https://en.wikipedia.org/wiki/COVID-19_vaccine_misinformation_and_hesitancy) to [Post-truth politics](https://en.wikipedia.org/wiki/Post-truth_politics).
+-
+We went from [Post-truth politics](https://en.wikipedia.org/wiki/Post-truth_politics) to [Digital object identifier](https://en.wikipedia.org/wiki/Doi_(identifier)).
+-
