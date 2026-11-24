@@ -77,6 +77,8 @@ We went from [Aesthetics](https://en.wikipedia.org/wiki/Aesthetics) to [Social c
 -
 We went from [Social class](https://en.wikipedia.org/wiki/Class_structure) to [Means of production](https://en.wikipedia.org/wiki/Means_of_production)
 -
+We went from [Means of production](https://en.wikipedia.org/wiki/Means_of_production) to [Economics](https://en.wikipedia.org/wiki/Economics)
+-
 We went from [Economics](https://en.wikipedia.org/wiki/Economics) to [Market distortion](https://en.wikipedia.org/wiki/Distortions_(economics))
 -
 We went from [Market distortion](https://en.wikipedia.org/wiki/Distortions_(economics)) to [Externality](https://en.wikipedia.org/wiki/Externalities)
