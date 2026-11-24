@@ -83,3 +83,7 @@ We went from [Economics](https://en.wikipedia.org/wiki/Economics) to [Market dis
 -
 We went from [Market distortion](https://en.wikipedia.org/wiki/Distortions_(economics)) to [Externality](https://en.wikipedia.org/wiki/Externalities)
 -
+We went from [Externality](https://en.wikipedia.org/wiki/Externalities) to [Charles Eisenstein](https://en.wikipedia.org/wiki/Charles_Eisenstein).
+-
+We went from [Charles Eisenstein](https://en.wikipedia.org/wiki/Charles_Eisenstein) to [Del Bigtree](https://en.wikipedia.org/wiki/Del_Bigtree).
+-

@@ -1,3 +1,3 @@
 source .venv/bin/activate
-python3 test.py > out.txt
+python3 test.py
 deactivate
